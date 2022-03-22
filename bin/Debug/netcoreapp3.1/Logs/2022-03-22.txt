@@ -1,0 +1,104 @@
+Connected to smtp://smtp.qq.com:25/?starttls=when-available
+S: 220 newxmesmtplogicsvrsza7.qq.com XMail Esmtp QQ Mail Server.
+C: EHLO DESKTOP-OQJEDI1
+S: 250-newxmesmtplogicsvrsza7.qq.com
+S: 250-PIPELINING
+S: 250-SIZE 73400320
+S: 250-STARTTLS
+S: 250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+S: 250-AUTH=LOGIN
+S: 250-MAILCOMPRESS
+S: 250 8BITMIME
+C: STARTTLS
+S: 220 Ready to start TLS from 27.16.215.215 to newxmesmtplogicsvrsza7.qq.com.
+C: EHLO DESKTOP-OQJEDI1
+S: 250-newxmesmtplogicsvrsza7.qq.com
+S: 250-PIPELINING
+S: 250-SIZE 73400320
+S: 250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+S: 250-AUTH=LOGIN
+S: 250-MAILCOMPRESS
+S: 250 8BITMIME
+C: AUTH PLAIN ********
+S: 235 Authentication successful
+C: MAIL FROM:<289657895@qq.com> SIZE=656 BODY=8BITMIME
+C: RCPT TO:<liaoshiqi@qq.com>
+S: 250 OK
+S: 250 OK
+C: DATA
+S: 354 End data with <CR><LF>.<CR><LF>.
+C: From: "289657895@qq.com" <289657895@qq.com>
+C: Date: Tue, 22 Mar 2022 17:21:25 +0800
+C: Subject: =?utf-8?b?5qCH6aKY?=
+C: Message-Id: <8X4A3AFVDGU4.VE8K31EO52PE@desktop-oqjedi1>
+C: To: "liaoshiqi@qq.com" <liaoshiqi@qq.com>
+C: MIME-Version: 1.0
+C: Content-Type: multipart/mixed; boundary="=-CSkaVccAcSe4czPlk4Tr+A=="
+C: 
+C: --=-CSkaVccAcSe4czPlk4Tr+A==
+C: Content-Type: multipart/alternative; boundary="=-G94wHLrb8j91kWllEYIaAA=="
+C: 
+C: --=-G94wHLrb8j91kWllEYIaAA==
+C: Content-Type: text/html; charset=utf-8
+C: Content-Transfer-Encoding: 8bit
+C: 
+C: 邮件内容：<BR>百度：<a href='http://www.baidu.com'>点我</a>
+C: --=-G94wHLrb8j91kWllEYIaAA==--
+C: 
+C: --=-CSkaVccAcSe4czPlk4Tr+A==--
+C: .
+S: 250 OK: queued as.
+C: QUIT
+S: 221 Bye.
+Connected to smtp://smtp.qq.com:25/?starttls=when-available
+S: 220 newxmesmtplogicsvrszc6.qq.com XMail Esmtp QQ Mail Server.
+C: EHLO DESKTOP-OQJEDI1
+S: 250-newxmesmtplogicsvrszc6.qq.com
+S: 250-PIPELINING
+S: 250-SIZE 73400320
+S: 250-STARTTLS
+S: 250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+S: 250-AUTH=LOGIN
+S: 250-MAILCOMPRESS
+S: 250 8BITMIME
+C: STARTTLS
+S: 220 Ready to start TLS from 27.16.215.215 to newxmesmtplogicsvrszc6.qq.com.
+C: EHLO DESKTOP-OQJEDI1
+S: 250-newxmesmtplogicsvrszc6.qq.com
+S: 250-PIPELINING
+S: 250-SIZE 73400320
+S: 250-AUTH LOGIN PLAIN XOAUTH XOAUTH2
+S: 250-AUTH=LOGIN
+S: 250-MAILCOMPRESS
+S: 250 8BITMIME
+C: AUTH PLAIN ********
+S: 235 Authentication successful
+C: MAIL FROM:<289657895@qq.com> SIZE=657 BODY=8BITMIME
+C: RCPT TO:<liaoshiqi@qq.com>
+S: 250 OK
+S: 250 OK
+C: DATA
+S: 354 End data with <CR><LF>.<CR><LF>.
+C: From: "289657895@qq.com" <289657895@qq.com>
+C: Date: Tue, 22 Mar 2022 17:21:34 +0800
+C: Subject: =?utf-8?b?5qCH6aKY?=
+C: Message-Id: <AP3MLBFVDGU4.TRXY7DEXTO181@desktop-oqjedi1>
+C: To: "liaoshiqi@qq.com" <liaoshiqi@qq.com>
+C: MIME-Version: 1.0
+C: Content-Type: multipart/mixed; boundary="=-8drEVUiV5Hon41fsENQW3g=="
+C: 
+C: --=-8drEVUiV5Hon41fsENQW3g==
+C: Content-Type: multipart/alternative; boundary="=-hF0TSuVLtaLgr9b/ak4ObQ=="
+C: 
+C: --=-hF0TSuVLtaLgr9b/ak4ObQ==
+C: Content-Type: text/html; charset=utf-8
+C: Content-Transfer-Encoding: 8bit
+C: 
+C: 邮件内容：<BR>百度：<a href='http://www.baidu.com'>点我</a>
+C: --=-hF0TSuVLtaLgr9b/ak4ObQ==--
+C: 
+C: --=-8drEVUiV5Hon41fsENQW3g==--
+C: .
+S: 250 OK: queued as.
+C: QUIT
+S: 221 Bye.
